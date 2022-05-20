@@ -1,0 +1,13 @@
+.navegador{
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    flex-flow: row nowrap ;
+    justify-content: space-evenly;
+    background-color: rgb(170, 126, 96);
+}
+
+li{
+    color: rgb(231, 214, 166);
+    
+}
